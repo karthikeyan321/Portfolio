@@ -1,0 +1,25 @@
+S. Karthikeyan
+Java Full Stack Developer
+
+Email: skskarthikeyan7@gmail.com
+Phone: +91 9042588533
+
+Qualification:
+- Bachelor of Computer Applications (BCA)
+- Full Stack Java Developer training completed
+
+Technical Skills:
+- Java, JavaScript, Python (Basic), SQL
+- HTML5, CSS3, Responsive Web Design
+- Spring Boot, Hibernate/JPA, REST APIs
+- MySQL, PostgreSQL (Basic)
+- Git, GitHub, VS Code, Eclipse IDE
+- OOP, DBMS, MVC architecture, SDLC
+
+Project Highlights:
+Email Spam Classifier (Java-Based Web Application)
+- Developed a Java-based application to classify spam emails and create a responsive user experience.
+- Implemented backend logic with Java and front-end UI using HTML, CSS, and JavaScript.
+
+Summary:
+A motivated Java Full Stack Developer fresher with strong fundamentals in software development, modern web technologies, and database-driven applications. Passionate about solving problems and building complete, scalable solutions.
